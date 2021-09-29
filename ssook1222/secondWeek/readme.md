@@ -6,8 +6,9 @@
 ✅ **풀이에 성공한 문제**
 - [13458 연구소](https://github.com/ssook1222/coding-test/blob/master/ssook1222/secondWeek/md/14502.md)
 - [14501 로봇청소기](https://github.com/ssook1222/coding-test/blob/master/ssook1222/secondWeek/md/14503.md)
-
+- [21608 상어초등학교](https://github.com/ssook1222/coding-test/blob/master/ssook1222/secondWeek/md/21608.md)
+- [14500 테트로미노](https://github.com/ssook1222/coding-test/blob/master/ssook1222/secondWeek/md/14500.md)
 ---
 ❌ **풀이에 실패한 문제**
-- [20055 컨베이어 벨트 위의 로봇](https://github.com/ssook1222/coding-test/blob/master/ssook1222/md/secondWeek/20055.md)
+- [20055 컨베이어 벨트 위의 로봇](https://github.com/ssook1222/coding-test/blob/master/ssook1222/secondWeek/md/20055.md)
 
