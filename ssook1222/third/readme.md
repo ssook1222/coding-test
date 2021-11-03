@@ -4,8 +4,8 @@
 
 ---
 ✅ **풀이에 성공한 문제**
-- [14891 톱니바퀴](https://github.com/ssook1222/coding-test/blob/master/ssook1222/third/14891.java)
-- [15686 치킨배달](https://github.com/ssook1222/coding-test/blob/master/ssook1222/third/15686.java)
+- [14891 톱니바퀴](https://github.com/ssook1222/coding-test/blob/master/ssook1222/third/P14891.md)
+- [15686 치킨배달](https://github.com/ssook1222/coding-test/blob/master/ssook1222/third/P15686.md)
 ---
 ❌ **풀이하지 못한 문제**
 - [15683 감시]
