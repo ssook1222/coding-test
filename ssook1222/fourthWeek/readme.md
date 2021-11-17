@@ -9,5 +9,5 @@
 
 ---
 ❌ **풀이에 실패한 문제**
-- [16234 인구이동](https://github.com/ssook1222/coding-test/blob/master/ssook1222/fourthWeek/md/16234.md)
-- [17825 윷놀이](https://github.com/ssook1222/coding-test/blob/master/ssook1222/fourthWeek/md/17825.md)
+- [16234 인구이동](https://github.com/ssook1222/coding-test/blob/master/ssook1222/fourthWeek/16234.md)
+- [17825 윷놀이](https://github.com/ssook1222/coding-test/blob/master/ssook1222/fourthWeek/17825.md)
