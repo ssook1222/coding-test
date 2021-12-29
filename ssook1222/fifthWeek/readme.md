@@ -6,11 +6,11 @@
 ✅ **풀이에 성공한 문제**   
 - [21610 마법사상어와 비내리기](https://github.com/ssook1222/coding-test/blob/master/ssook1222/fifthWeek/Pro21610.md)    
 
-- [1759 암호만들기]([](https://github.com/ssook1222/coding-test/blob/master/ssook1222/fifthWeek/Pro1759.md))
+- [1759 암호만들기](https://github.com/ssook1222/coding-test/blob/master/ssook1222/fifthWeek/Pro1759.md)
 
 ---
 ❌ **풀이에 실패한 문제**
-- [23291 어항정리]([](https://github.com/ssook1222/coding-test/blob/master/ssook1222/fifthWeek/Pro23291.md))
+- [23291 어항정리](https://github.com/ssook1222/coding-test/blob/master/ssook1222/fifthWeek/Pro23291.md)
 
 
 
